@@ -40,17 +40,8 @@ Release date: 16-Nov-2023
 ### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
 </br>
 
-<a href="https://discord.gg/gjJEfq7ux8">
+<a href="[https://discord.gg/gjJEfq7ux8](https://discord.gg/Q37efgSS2t)">
   <img src="https://massgrave.dev/images/logo_discord.png" alt="Chat with us without signup" />
-</a>
-<a href="https://t.me/Microsoft_Activation_Scripts">
-  <img src="https://massgrave.dev/images/logo_telegram.png" alt="Chat with us" />
-</a>
-<a href="https://twitter.com/massgravel">
-  <img src="https://massgrave.dev/images/logo_x.png" alt="Follow on 𝕏/Twitter" />
-</a>
-<a href="https://www.reddit.com/r/MAS_Activator">
-  <img src="https://massgrave.dev/images/logo_reddit.png" alt="Reddit" />
 </a>
 
 ---
